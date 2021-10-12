@@ -1,0 +1,18 @@
+@import url(../css/body.css);
+@import url("../css/main.css");
+.chats {
+    font-size: 24px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    padding: 100px;
+}
+
+.line {
+    border-bottom: solid black;
+    margin-top: -120px;
+}
+
+.chats2 {
+    margin-left: 20px;
+}

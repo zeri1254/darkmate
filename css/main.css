@@ -1,0 +1,87 @@
+@import url(../css/body.css);
+ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav li {
+    text-align: center;
+}
+
+.nav a {
+    display: inline-block;
+    padding: 10px;
+}
+
+.main {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.timetable {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.links {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.teacher {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+div {
+    color: black;
+}
+
+.main1 {
+    font-size: 24px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    padding: 100px;
+}
+
+.white-box {
+    border-radius: 3px;
+    background: #FFFFFF;
+    width: 1000px;
+    height: 2000px;
+    top: 70%;
+    margin: auto;
+}
+
+.line {
+    border-bottom: solid black;
+    margin-top: -120px;
+}

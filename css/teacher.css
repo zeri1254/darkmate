@@ -1,0 +1,12 @@
+@import url(../css/body.css);
+div {
+    color: black;
+}
+
+.teacher1 {
+    font-size: 24px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    padding: 100px;
+}

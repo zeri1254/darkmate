@@ -1,0 +1,26 @@
+@import url(../css/body.css);
+div {
+    color: black;
+}
+
+.white-box {
+    border-radius: 3px;
+    background: #FFFFFF;
+    width: 1000px;
+    height: 2000px;
+    top: 70%;
+    margin: auto;
+}
+
+.timetable1 {
+    font-size: 24px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    padding: 100px;
+}
+
+.line {
+    border-bottom: solid black;
+    margin-top: -120px;
+}
