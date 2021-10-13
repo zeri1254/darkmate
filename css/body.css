@@ -99,3 +99,14 @@ ul {
 
 
 /* конец навигации */
+
+
+/* Подвал */
+
+.cop {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Конец подвала */
