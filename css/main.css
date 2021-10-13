@@ -1,24 +1,6 @@
 @import url(../css/body.css);
-ul {
-    list-style: none;
-    margin: 0;
-    padding-left: 0;
-    display: flex;
-    justify-content: flex-end;
-}
 
-a {
-    text-decoration: none;
-}
-
-.nav li {
-    text-align: center;
-}
-
-.nav a {
-    display: inline-block;
-    padding: 10px;
-}
+/* Главная */
 
 .main {
     font-family: Roboto;
@@ -30,6 +12,12 @@ a {
     color: #FFFFFF;
 }
 
+
+/* Конец Главной */
+
+
+/* Расписание*/
+
 .timetable {
     font-family: Roboto;
     font-style: normal;
@@ -40,6 +28,12 @@ a {
     color: #FFFFFF;
 }
 
+
+/* Конец расписания */
+
+
+/* Ссылки */
+
 .links {
     font-family: Roboto;
     font-style: normal;
@@ -49,6 +43,12 @@ a {
     text-align: center;
     color: #FFFFFF;
 }
+
+
+/* Конец ссылки */
+
+
+/* учителя */
 
 .teacher {
     font-family: Roboto;
@@ -64,6 +64,12 @@ div {
     color: black;
 }
 
+
+/* Конец учителей  */
+
+
+/* Главная 1*/
+
 .main1 {
     font-size: 24px;
     font-family: Roboto;
@@ -71,6 +77,12 @@ div {
     font-weight: bold;
     padding: 100px;
 }
+
+
+/* конец Главной 1*/
+
+
+/* основной блок */
 
 .white-box {
     border-radius: 3px;
@@ -85,3 +97,6 @@ div {
     border-bottom: solid black;
     margin-top: -120px;
 }
+
+
+/* конец основного блока */

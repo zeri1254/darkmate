@@ -17,6 +17,9 @@ a {
     text-decoration: none;
 }
 
+
+/* возможная навигация */
+
 .navig nav {
     font-size: 25px;
     font-family: Roboto;
@@ -29,7 +32,18 @@ a {
 }
 
 
+/* возможная навигация */
+
+
 /* навигация */
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: flex;
+    justify-content: flex-end;
+}
 
 .navig li {
     background: white;

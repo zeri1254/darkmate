@@ -1,15 +1,5 @@
 @import url(../css/body.css);
 @import url("../css/main.css");
- :root {
-    --dark-background-color: #111111;
-    --dark-text-color: #eeeeee;
-}
-
-body.theme-dark {
-    --background-color: var(--dark-background-color);
-    --text-color: var(--dark-text-color);
-}
-
 div {
     color: black;
 }
